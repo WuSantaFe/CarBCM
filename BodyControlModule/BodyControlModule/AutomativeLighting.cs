@@ -18,7 +18,7 @@ namespace BodyControlModule
 
         public AutomativeLighting()
         {
-            InitializeComponent();
+            InitializeComponent();//
             System.Windows.Forms.Control.CheckForIllegalCrossThreadCalls = false;//设置该属性 为false
         }
         bool isOpened = false;//串口状态标志
