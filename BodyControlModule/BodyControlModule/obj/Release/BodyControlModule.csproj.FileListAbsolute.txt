@@ -1,0 +1,16 @@
+D:\flywork\workspace\BodyControlModule\BodyControlModule\bin\Release\BodyControlModule.exe.config
+D:\flywork\workspace\BodyControlModule\BodyControlModule\bin\Release\BodyControlModule.exe
+D:\flywork\workspace\BodyControlModule\BodyControlModule\bin\Release\BodyControlModule.pdb
+D:\flywork\workspace\BodyControlModule\BodyControlModule\obj\Release\BodyControlModule.AutomativeLighting.resources
+D:\flywork\workspace\BodyControlModule\BodyControlModule\obj\Release\BodyControlModule.BcmMain.resources
+D:\flywork\workspace\BodyControlModule\BodyControlModule\obj\Release\BodyControlModule.CarWindow.resources
+D:\flywork\workspace\BodyControlModule\BodyControlModule\obj\Release\BodyControlModule.KeyLessStartup.resources
+D:\flywork\workspace\BodyControlModule\BodyControlModule\obj\Release\BodyControlModule.Properties.Resources.resources
+D:\flywork\workspace\BodyControlModule\BodyControlModule\obj\Release\BodyControlModule.SkyLight.resources
+D:\flywork\workspace\BodyControlModule\BodyControlModule\obj\Release\BodyControlModule.UcLabel.resources
+D:\flywork\workspace\BodyControlModule\BodyControlModule\obj\Release\BodyControlModule.Wiper.resources
+D:\flywork\workspace\BodyControlModule\BodyControlModule\obj\Release\BodyControlModule.csproj.GenerateResource.cache
+D:\flywork\workspace\BodyControlModule\BodyControlModule\obj\Release\BodyControlModule.csproj.CoreCompileInputs.cache
+D:\flywork\workspace\BodyControlModule\BodyControlModule\obj\Release\BodyControlModule.exe
+D:\flywork\workspace\BodyControlModule\BodyControlModule\obj\Release\BodyControlModule.pdb
+D:\flywork\workspace\BodyControlModule\BodyControlModule\obj\Release\BodyControlModule.csprojAssemblyReference.cache
